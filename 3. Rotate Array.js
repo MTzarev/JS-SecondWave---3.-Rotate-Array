@@ -5,6 +5,4 @@ function rotateArray(arr) {
     }
     console.log((arr.join(` `)));
 }
-rotateArray(['1', '2', '3', '4', '2']
-
-);
+rotateArray(['1', '2', '3', '4', '2']);
